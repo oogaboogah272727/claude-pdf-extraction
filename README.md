@@ -2,9 +2,9 @@
 
 > **100% accurate PDF table extraction using Claude Code sub-agents** - Outperforms Docling, ScaleDP, and traditional OCR methods
 
-[![Extraction Accuracy](https://img.shields.io/badge/Title%20Detection-100%25-success)](https://github.com/yourusername/claude-pdf-extraction)
-[![Structure Preservation](https://img.shields.io/badge/Structure%20Preservation-Perfect-success)](https://github.com/yourusername/claude-pdf-extraction)
-[![False Positives](https://img.shields.io/badge/False%20Positives-0%25-success)](https://github.com/yourusername/claude-pdf-extraction)
+[![Extraction Accuracy](https://img.shields.io/badge/Title%20Detection-100%25-success)](https://github.com/oogaboogah272727/claude-pdf-extraction)
+[![Structure Preservation](https://img.shields.io/badge/Structure%20Preservation-Perfect-success)](https://github.com/oogaboogah272727/claude-pdf-extraction)
+[![False Positives](https://img.shields.io/badge/False%20Positives-0%25-success)](https://github.com/oogaboogah272727/claude-pdf-extraction)
 
 ## 🚀 Performance Comparison
 
@@ -33,7 +33,7 @@ Tested on engineering/mining proposals with complex multi-level tables:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/claude-pdf-extraction.git
+git clone https://github.com/oogaboogah272727/claude-pdf-extraction.git
 cd claude-pdf-extraction
 
 # Install dependencies
