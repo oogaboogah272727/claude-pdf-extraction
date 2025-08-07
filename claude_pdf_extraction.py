@@ -405,7 +405,7 @@ def demonstrate_superiority():
     extractor = PDFTableExtractor()
     
     # Simulate extraction
-    test_pdf = "BHP_Proposal.pdf"
+    test_pdf = "engineering_proposal.pdf"
     results = extractor.extract(test_pdf)
     
     print("\n📊 Extraction Results:")

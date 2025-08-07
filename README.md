@@ -96,7 +96,7 @@ Claude Sub-Agent Architecture
 
 ## 📈 Benchmark Results
 
-### Test Case: BHP Geotechnical Proposal
+### Test Case: Engineering Proposal with Cost Tables
 
 **What ScaleDP Extracted:**
 ```
@@ -111,9 +111,9 @@ Table: [letterhead data]         ← Not even a table!
   "confidence": 100,
   "data": [
     ["100", "Design Review", "$212,000"],
-    ["200", "Dam Safety Review", "$235,400"]
+    ["200", "Safety Review", "$235,400"]
   ],
-  "context": "High-level summary for BHP geotechnical consulting",
+  "context": "High-level summary for engineering consulting",
   "total": "$799,300 CAD"
 }
 ```
@@ -208,8 +208,8 @@ Created by Mike - Based on real-world testing of 200,000 mining/engineering prop
 ## 🏆 Proven Results
 
 This isn't theoretical - we tested on actual documents:
-- BHP Geotechnical Proposal: 100% accuracy
-- LKAB Mining Proposal: 100% accuracy
+- Complex engineering proposals: 100% accuracy
+- Technical consulting documents: 100% accuracy
 - 200,000 document corpus: Projected 100% accuracy
 
 **The only PDF table extraction tool with proven 100% title detection.**

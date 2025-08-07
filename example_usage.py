@@ -155,7 +155,7 @@ def compare_with_traditional_tools():
     print("="*60)
     
     # Test document
-    test_pdf = "BHP_Proposal.pdf"
+    test_pdf = "engineering_proposal.pdf"
     
     print(f"\n📄 Test Document: {test_pdf}")
     print("-" * 40)
