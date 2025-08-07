@@ -1,0 +1,24 @@
+# Claude Code Sub-Agent PDF Extraction Requirements
+
+# Core dependencies
+python-dateutil>=2.8.2
+typing-extensions>=4.5.0
+
+# Optional: For enhanced functionality
+# Note: The core extraction uses Claude Code sub-agents
+# These are optional utilities for file handling
+
+# For JSON handling
+jsonschema>=4.17.0
+
+# For async operations (if using parallel sub-agents)
+asyncio>=3.4.3
+
+# Optional: For comparison with traditional tools
+# pymupdf>=1.23.0  # If you want to compare with traditional extraction
+# pdfplumber>=0.9.0  # Another traditional tool for comparison
+
+# Development dependencies
+pytest>=7.3.0
+black>=23.0.0
+mypy>=1.0.0
