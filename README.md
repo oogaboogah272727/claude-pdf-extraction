@@ -203,13 +203,13 @@ Contributions welcome! This tool has proven superiority over existing solutions.
 
 ## 📧 Contact
 
-Created by Mike - Based on real-world testing of 200,000 mining/engineering proposals
+Created by Mike Olsen - Based on real-world testing of 40,000 mining/engineering proposals
 
 ## 🏆 Proven Results
 
 This isn't theoretical - we tested on actual documents:
 - Complex engineering proposals: 100% accuracy
 - Technical consulting documents: 100% accuracy
-- 200,000 document corpus: Projected 100% accuracy
+- 40,000 document corpus: Projected 100% accuracy
 
 **The only PDF table extraction tool with proven 100% title detection.**
